@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Linktree](https://img.shields.io/badge/Linktree-39e09b?logo=linktree&logoColor=white)](https://linktr.ee/nikhil_e)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/t8dHTy9c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-e/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@codewithnikki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithnikki@gmail.com) 
 
 # 💻 Tech Stack:
