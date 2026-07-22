@@ -133,16 +133,15 @@
 
 ---
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itsnikhile&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-liard-delta.vercel.app/?username=itsnikhile&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=itsnikhile&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=itsnikhile&icon=0&color=6)](https://visitcount.itsvg.in)
