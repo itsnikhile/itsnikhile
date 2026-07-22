@@ -32,15 +32,15 @@
 
 ## 🧠 About Me
 
-🤖 I'm a hands-on **AI & Data Engineering professional** designing intelligent systems — from multi-agent LLM pipelines to enterprise-scale analytics platforms that drive real decisions.
+🤖 I'm a hands-on **AI & Data Engineering professional** designing intelligent systems - from multi-agent LLM pipelines to enterprise-scale analytics platforms that drive real decisions.
 
-🔬 My work sits at the intersection of **AI, data, and cloud** — I don't just move data; I make it think.
+🔬 My work sits at the intersection of **AI, data, and cloud** - I don't just move data; I make it think.
 
 ⚡ Currently focused on:
-- 🤖 **Agentic AI Systems** — LangGraph, RAG pipelines, MCP servers
-- 📊 **Enterprise Analytics** — Databricks, Power BI, CRMA migrations
-- ☁️ **Cloud-Native Data** — AWS, Azure, GCP at scale
-- 🔄 **Real-Time Streaming** — Kafka, Spark Streaming, event-driven architectures
+- 🤖 **Agentic AI Systems** - LangGraph, RAG pipelines, MCP servers
+- 📊 **Enterprise Analytics** - Databricks, Power BI, CRMA migrations
+- ☁️ **Cloud-Native Data** - AWS, Azure, GCP at scale
+- 🔄 **Real-Time Streaming** - Kafka, Spark Streaming, event-driven architectures
 
 ---
 
