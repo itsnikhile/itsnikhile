@@ -209,13 +209,13 @@
 
 | Area | Result |
 |--------|---------|
-| AI Agents & RAG Systems | Architected and shipped **5+** production agents and RAG systems |
-| Enterprise Data Pipelines | Designed and delivered **25+** pipelines in production |
-| Data at Scale | **10TB+** processed across enterprise-scale platforms |
-| Performance | Drove **~40%** faster workflows end to end |
-| Cloud Cost Optimization | Cut cloud spend **~30%** through platform optimization |
-| Platform Reliability | Delivered **99.9%** uptime in production |
-| Business Impact | Enabled **15+** teams and business units with trusted data & AI |
+| AI Agents & RAG Systems | **5+** agents and RAG systems I built, now running in production |
+| Enterprise Data Pipelines | **25+** pipelines running in production |
+| Data at Scale | **10TB+** of data processed |
+| Performance | **~40%** faster workflows |
+| Cloud Cost Optimization | **~30%** cut from cloud spend |
+| Platform Reliability | **99.9%** uptime in production |
+| Business Impact | **15+** teams and business units relying on the data & AI |
 
 ---
 
@@ -223,11 +223,11 @@
 
 | Area | What it does |
 |---|---|
-| **[Agentic RAG & Context Engineering](https://github.com/itsnikhile/rag-mcp-pipeline)** | Architecting production RAG systems with context engineering — grounded, cited answers over enterprise data, built for production, not demos |
-| **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | Building multi-agent systems with LangGraph — supervisor patterns and tool-calling agents that carry real work end-to-end |
-| **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Shipping custom MCP servers that put enterprise data behind secure, reusable tools for Claude — one toolset, many agents |
-| **[AI Evals & Observability](https://github.com/itsnikhile/rag-mcp-pipeline)** | Making AI measurable in production — retrieval evaluation as a first-class endpoint (precision@k, recall@k, MRR) with observability baked in |
-| **AI + Analytics** | Bringing AI into analytics — Databricks AI/BI + Power BI for self-serve reporting teams can actually trust |
+| **[Agentic RAG & Context Engineering](https://github.com/itsnikhile/rag-mcp-pipeline)** | RAG systems that answer from real enterprise data, with citations. Built to hold up in production. |
+| **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph agents that work together — supervisor pattern, tool calling — and get work done end to end. |
+| **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom MCP servers that let Claude use enterprise data safely. One set of tools, shared across agents. |
+| **[AI Evals & Observability](https://github.com/itsnikhile/rag-mcp-pipeline)** | Retrieval evals as a proper endpoint (precision@k, recall@k, MRR), so I can see when the system starts drifting. |
+| **AI + Analytics** | Databricks AI/BI and Power BI for reporting people actually use. |
 
 ---
 
