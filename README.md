@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 About Me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/person-dark.svg"><img src="assets/icons/person-light.svg" width="24" height="24" alt=""></picture> About Me
 
 🤖 I'm a hands-on **AI & Data Engineering professional** designing intelligent systems - from multi-agent LLM pipelines and RAG systems to enterprise-scale data, analytics, and cloud platforms that drive real decisions and make AI reliable in production.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## ⭐ Featured Projects
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/star-dark.svg"><img src="assets/icons/star-light.svg" width="24" height="24" alt=""></picture> Featured Projects
 
 <p align="center">
   <a href="https://github.com/itsnikhile/rag-mcp-pipeline">
@@ -67,7 +67,7 @@
 
 ---
 
-## 🏆 Certifications
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/verified-dark.svg"><img src="assets/icons/verified-light.svg" width="24" height="24" alt=""></picture> Certifications
 
 ### AI & Data
 
@@ -249,7 +249,7 @@
 
 ---
 
-## 📈 Key Impact Snapshot
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/milestone-dark.svg"><img src="assets/icons/milestone-light.svg" width="24" height="24" alt=""></picture> Key Impact Snapshot
 
 | 📌 Area | 🚀 Result |
 |--------|---------|
@@ -263,7 +263,7 @@
 
 ---
 
-## 🤖 What I'm Building with AI
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rocket-dark.svg"><img src="assets/icons/rocket-light.svg" width="24" height="24" alt=""></picture> What I'm Building with AI
 
 | Area | What it does |
 |---|---|
@@ -275,7 +275,7 @@
 
 ---
 
-## 🤖 AI & Machine Learning
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/cpu-dark.svg"><img src="assets/icons/cpu-light.svg" width="24" height="24" alt=""></picture> AI & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -296,7 +296,7 @@
 
 ---
 
-## ⚒️ Technical Toolkit
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tools-dark.svg"><img src="assets/icons/tools-light.svg" width="24" height="24" alt=""></picture> Technical Toolkit
 
 ### 🗄️ Data Engineering & Big Data
 <p align="center">
@@ -338,12 +338,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/graph-dark.svg"><img src="assets/icons/graph-light.svg" width="24" height="24" alt=""></picture> GitHub Stats
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsnikhile&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Profile Summary
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/pulse-dark.svg"><img src="assets/icons/pulse-light.svg" width="24" height="24" alt=""></picture> GitHub Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsnikhile&theme=tokyonight)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsnikhile&theme=tokyonight)
 ---
@@ -362,4 +362,3 @@
 </p>
 
 <p align="center">🤖 Building at the edge of AI + Data + Cloud. Always shipping. Always learning.</p>
-
