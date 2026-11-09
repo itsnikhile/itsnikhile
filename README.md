@@ -119,6 +119,28 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/itsnikhile/rag-mcp-pipeline">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=rag-mcp-pipeline&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/itsnikhile/llm-data-pipeline">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=llm-data-pipeline&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsnikhile/multi-mcp-data-swarm">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=multi-mcp-data-swarm&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/itsnikhile/claude-mcp-data-engineer">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=claude-mcp-data-engineer&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+
+---
+
 ## 📈 Key Impact Snapshot
 
 | 📌 Area | 🚀 Result |
