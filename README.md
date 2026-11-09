@@ -11,30 +11,13 @@
   Building agentic AI systems, RAG pipelines, LLM applications, and scalable cloud data platforms ⚡
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/nikhil-e"><img src="assets/social/linkedin.svg" width="48" height="48" alt="LinkedIn" /></a><br />
-      <a href="https://linkedin.com/in/nikhil-e">LinkedIn</a>
-    </td>
-    <td align="center">
-      <a href="mailto:codewithnikki@gmail.com"><img src="assets/social/gmail.svg" width="48" height="48" alt="Email" /></a><br />
-      <a href="mailto:codewithnikki@gmail.com">Email</a>
-    </td>
-    <td align="center">
-      <a href="https://medium.com/@codewithnikki"><img src="assets/social/medium.svg" width="48" height="48" alt="Medium" /></a><br />
-      <a href="https://medium.com/@codewithnikki">Medium</a>
-    </td>
-    <td align="center">
-      <a href="https://linktr.ee/nikhil_e"><img src="assets/social/linktree.svg" width="48" height="48" alt="Portfolio" /></a><br />
-      <a href="https://linktr.ee/nikhil_e">Portfolio</a>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/t8dHTy9c"><img src="assets/social/discord.svg" width="48" height="48" alt="Discord" /></a><br />
-      <a href="https://discord.gg/t8dHTy9c">Discord</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-e"><img src="assets/social/linkedin.svg" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:codewithnikki@gmail.com"><img src="assets/social/gmail.svg" width="48" height="48" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@codewithnikki"><img src="assets/social/medium.svg" width="48" height="48" alt="Medium" /></a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/nikhil_e"><img src="assets/social/linktree.svg" width="48" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/t8dHTy9c"><img src="assets/social/discord.svg" width="48" height="48" alt="Discord" /></a>
+</p>
 
 ---
 
