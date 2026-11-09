@@ -71,22 +71,63 @@
 
 ### AI & Data
 
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credential.net/a89a9c2b-e152-4672-9576-d176e17a6712"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=181359669" width="110" alt="Databricks Certified Data Engineer Professional" /></a><br />
+      <sub><b>Databricks Certified Data Engineer Professional</b><br />2026</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credential.net/1ca0cd1e-4a45-4cbd-b008-2c6c81d1e315"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=104899742" width="110" alt="Databricks Certified Associate Developer for Apache Spark 3.0" /></a><br />
+      <sub><b>Databricks Certified Associate Developer for Apache Spark 3.0</b><br />2024</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Astronomer_Certified_for_AI_Orchestration_Fundamentals-2026-232A55?style=for-the-badge&logo=astronomer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks_Certified_Data_Engineer_Professional-2026--2028-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Certified%3A_Power_BI_Data_Analyst_Associate-2026--2027-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Professional_Data_Engineer_Certification-2025--2027-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_--_Associate-2024--2027-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks_Certified_Associate_Developer_for_Apache_Spark_3.0-2024-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/SnowPro_Core-2024--2028-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
+#### Databricks Academy Knowledge Badges
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <a href="https://www.credential.net/9aef607e-4fe8-47c0-8e6b-91e7b0e32aa6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197493026" width="80" alt="Knowledge Badge - AI/BI for Data Analysts" /></a><br />
+      <sub><b>Knowledge Badge - AI/BI for Data Analysts</b><br />2026</sub>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.credential.net/25a307f8-7885-4048-a7de-6eaad0f33df6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197492955" width="80" alt="Knowledge Badge - SQL Analytics on Databricks" /></a><br />
+      <sub><b>Knowledge Badge - SQL Analytics on Databricks</b><br />2026</sub>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.credential.net/447cbe5b-9fee-414e-adc9-e97ff0d6521d"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=172572934" width="80" alt="Knowledge Badge - Introduction to Apache Spark" /></a><br />
+      <sub><b>Knowledge Badge - Introduction to Apache Spark</b><br />2026</sub>
+    </td>
+  </tr>
+</table>
+
 ### Streaming & Orchestration
 
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credential.net/2919b7a8-94b9-495e-ad8e-5fd30d03b5b3"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197495710" width="110" alt="Data Streaming Engineer - Apache Flink" /></a><br />
+      <sub><b>Data Streaming Engineer - Apache Flink</b><br />2026</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credential.net/3a7ffe6e-efc4-4d4b-9c8f-24179ca9ac6f"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=158458769" width="110" alt="Data Streaming Engineer Foundations" /></a><br />
+      <sub><b>Data Streaming Engineer Foundations</b><br />2025</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Streaming_Engineer_--_Apache_Flink-2026--2028-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
   <img src="https://img.shields.io/badge/Astronomer_Certification_for_Apache_Airflow_3-2025--2027-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Streaming_Engineer-2025--2027-003A70?style=for-the-badge&logo=confluent&logoColor=white" />
 </p>
 
 ### Cloud & Databases
