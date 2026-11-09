@@ -71,38 +71,38 @@
 
 ### AI & Data
 
-| Certification | Issuer | Issued | Expires |
-|---|---|---|---|
-| Astronomer Certified for AI Orchestration Fundamentals | Astronomer | Aug 2026 | — |
-| Databricks Certified Data Engineer Professional | Databricks | May 2026 | May 2028 |
-| Microsoft Certified: Power BI Data Analyst Associate | Microsoft | Apr 2026 | Apr 2027 |
-| Professional Data Engineer Certification | Google | May 2025 | Jun 2027 |
-| AWS Certified Data Engineer – Associate | Amazon Web Services (AWS) | Dec 2024 | Dec 2027 |
-| Databricks Certified Associate Developer for Apache Spark 3.0 | Databricks | May 2024 | — |
-| SnowPro Core | Snowflake | Apr 2024 | Apr 2028 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Astronomer_Certified_for_AI_Orchestration_Fundamentals-2026-232A55?style=for-the-badge&logo=astronomer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks_Certified_Data_Engineer_Professional-2026--2028-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified%3A_Power_BI_Data_Analyst_Associate-2026--2027-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Professional_Data_Engineer_Certification-2025--2027-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_--_Associate-2024--2027-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks_Certified_Associate_Developer_for_Apache_Spark_3.0-2024-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SnowPro_Core-2024--2028-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
 
 ### Streaming & Orchestration
 
-| Certification | Issuer | Issued | Expires |
-|---|---|---|---|
-| Data Streaming Engineer - Apache Flink | Confluent, an IBM Company | Oct 2026 | Oct 2028 |
-| Astronomer Certification for Apache Airflow 3 | Astronomer | Oct 2025 | Oct 2027 |
-| Data Streaming Engineer | Confluent, an IBM Company | Aug 2025 | Aug 2027 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Streaming_Engineer_--_Apache_Flink-2026--2028-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astronomer_Certification_for_Apache_Airflow_3-2025--2027-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Streaming_Engineer-2025--2027-003A70?style=for-the-badge&logo=confluent&logoColor=white" />
+</p>
 
 ### Cloud & Databases
 
-| Certification | Issuer | Issued | Expires |
-|---|---|---|---|
-| Oracle Cloud Database Services 2025 Certified Professional | Oracle | Aug 2025 | Sep 2027 |
-| Microsoft Certified: Azure AI Engineer Associate | Microsoft | Oct 2024 | Expired Nov 2025 |
-| Microsoft Certified: Azure Data Engineer Associate | Microsoft | May 2024 | Expired May 2025 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Database_Services_2025_Certified_Professional-2025--2027-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified%3A_Azure_AI_Engineer_Associate-Expired_Nov_2025-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified%3A_Azure_Data_Engineer_Associate-Expired_May_2025-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 ### Other
 
-| Certification | Issuer | Issued | Expires |
-|---|---|---|---|
-| Airtable Admin Certification | Airtable | Jun 2025 | Jul 2027 |
-| Airtable Builder Certification | Airtable | Jun 2025 | Jul 2027 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Airtable_Admin_Certification-2025--2027-FC636B?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airtable_Builder_Certification-2025--2027-FC636B?style=for-the-badge&logo=airtable&logoColor=white" />
+</p>
 
 ---
 
