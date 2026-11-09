@@ -1,13 +1,13 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Nikhil%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20%7C%20Cloud%20Engineer&descSize=18&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Nikhil%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Agentic%20AI%20%26%20LLM%20Systems&descSize=18&descAlignY=75&descAlign=50" />
 </p>
 
 <h2 align="center">👋 Hola, I'm <span style="color:#A78BFA">Nikhil</span></h2>
 
 <p align="center">
-  <strong>Sr. AI & Data Engineer • Cloud Architect • Agentic Systems Builder</strong><br>
-  Building intelligent data platforms, multi-agent AI systems, and scalable pipelines ⚡
+  <strong>Sr. AI & Data Engineer • Cloud Architect • Agentic Systems Builder • LLM Systems Specialist</strong><br>
+  Building agentic AI systems, RAG pipelines, LLM applications, and scalable cloud data platforms ⚡
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@
 
 ## 🧠 About Me
 
-🤖 I'm a hands-on **AI & Data Engineering professional** designing intelligent systems - from multi-agent LLM pipelines to enterprise-scale analytics platforms that drive real decisions.
+🤖 I'm a hands-on **AI & Data Engineering professional** designing intelligent systems - from multi-agent LLM pipelines and RAG systems to enterprise-scale data, analytics, and cloud platforms that drive real decisions and make AI reliable in production.
 
-🔬 My work sits at the intersection of **AI, data, and cloud** - I don't just move data; I make it think.
+🔬 My work sits at the intersection of **AI, data, and cloud** - AI first, built on strong data engineering and cloud architecture. I don't just move data; I make it think.
 
 ⚡ Currently focused on:
-- 🤖 **Agentic AI Systems** - LangGraph, RAG pipelines, MCP servers
-- 📊 **Enterprise Analytics** - Databricks, Power BI, CRMA migrations
-- ☁️ **Cloud-Native Data** - AWS, Azure, GCP at scale
+- 🤖 **Agentic AI Systems** - LangGraph, multi-agent orchestration, RAG pipelines, MCP servers
+- 🗄️ **Data Engineering & Pipelines** - Databricks, Spark, Airflow, dbt and Snowflake for enterprise-scale data platforms
 - 🔄 **Real-Time Streaming** - Kafka, Spark Streaming, event-driven architectures
+- 📊 **Enterprise Analytics & Cloud Architecture** - Power BI, CRMA migrations, and cloud-native platforms on AWS, Azure, GCP at scale
 
 ---
 
@@ -157,4 +157,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
 </p>
 
-<p align="center">🤖 Building at the edge of AI + Data. Always shipping. Always learning.</p>
+<p align="center">🤖 Building at the edge of AI + Data + Cloud. Always shipping. Always learning.</p>
