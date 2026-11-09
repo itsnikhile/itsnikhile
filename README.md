@@ -109,13 +109,13 @@
 
 ## 🤖 What I'm Building with AI
 
-```
-🧩  Multi-Agent Systems    →  LangGraph orchestration, tool-calling agents, supervisor patterns
-📚  RAG Pipelines          →  Document ingestion → chunking → vector store → grounded LLM output
-🔌  MCP Servers            →  Custom Model Context Protocol servers for enterprise integrations
-🧠  LLM Fine-tuning        →  Domain-specific prompt engineering & retrieval augmentation
-📊  AI + Analytics         →  Databricks AI + Power BI for intelligent business reporting
-```
+| Area | What it does |
+|---|---|
+| 🧩 **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
+| 📚 **[RAG Pipelines](https://github.com/itsnikhile/rag-mcp-pipeline)** | Document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
+| 🔌 **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
+| 🧠 **LLM Fine-tuning** | Domain-specific prompt engineering and retrieval augmentation to make LLM output accurate for a business domain |
+| 📊 **AI + Analytics** | Databricks AI + Power BI for intelligent, self-serve business reporting |
 
 ---
 
@@ -123,28 +123,26 @@
 
 | 📌 Area | 🚀 Result |
 |--------|---------|
-| Enterprise Data Pipelines Delivered | **25+** |
-| Data Processed | **10TB+** |
-| Performance Boost | **~40% Faster Workflows** |
-| Reliability Achieved | **99.9% Uptime** |
-| Cloud Cost Optimization | **~30% Reduced Spend** |
-| AI Agents / RAG Systems Built | **5+** |
-| Teams / Business Supported | **15+** |
+| Enterprise Data Pipelines Delivered | **25+** pipelines in production |
+| Data Processed | **10TB+** processed at enterprise scale |
+| Performance Boost | **~40%** faster workflows |
+| Reliability Achieved | **99.9%** uptime |
+| Cloud Cost Optimization | **~30%** reduced cloud spend |
+| AI Agents / RAG Systems Built | **5+** agents and RAG systems built |
+| Teams / Business Supported | **15+** teams and business units supported |
 
 ---
 ## 📊 GitHub Stats
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsnikhile&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsnikhile&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=itsnikhile&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=itsnikhile&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🏆 GitHub Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsnikhile&theme=tokyonight)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsnikhile&theme=tokyonight)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=itsnikhile&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=itsnikhile&color=6)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsnikhile/itsnikhile/output/github-snake-dark.svg" />
