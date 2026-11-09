@@ -11,23 +11,30 @@
   Building agentic AI systems, RAG pipelines, LLM applications, and scalable cloud data platforms ⚡
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nikhil-e">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:codewithnikki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@codewithnikki">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/nikhil_e">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=000000" />
-  </a>
-  <a href="https://discord.gg/t8dHTy9c">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/nikhil-e"><img src="assets/social/linkedin.svg" width="48" height="48" alt="LinkedIn" /></a><br />
+      <a href="https://linkedin.com/in/nikhil-e">LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="mailto:codewithnikki@gmail.com"><img src="assets/social/gmail.svg" width="48" height="48" alt="Email" /></a><br />
+      <a href="mailto:codewithnikki@gmail.com">Email</a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@codewithnikki"><img src="assets/social/medium.svg" width="48" height="48" alt="Medium" /></a><br />
+      <a href="https://medium.com/@codewithnikki">Medium</a>
+    </td>
+    <td align="center">
+      <a href="https://linktr.ee/nikhil_e"><img src="assets/social/linktree.svg" width="48" height="48" alt="Portfolio" /></a><br />
+      <a href="https://linktr.ee/nikhil_e">Portfolio</a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/t8dHTy9c"><img src="assets/social/discord.svg" width="48" height="48" alt="Discord" /></a><br />
+      <a href="https://discord.gg/t8dHTy9c">Discord</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
