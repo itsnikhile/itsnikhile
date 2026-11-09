@@ -97,9 +97,14 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/EatalpackaNikhil-1417/3CF3240C138C0E86?sharingId"><img src="https://img.shields.io/badge/Microsoft_Certified%3A_Power_BI_Data_Analyst_Associate_%C2%B7_2026--2027-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/EatalpackaNikhil-1417/3CF3240C138C0E86?sharingId"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Power BI Data Analyst Associate" /></a><br />
+      <sub><b>Power BI Data Analyst Associate</b><br />Issued Apr 2026, Expires Apr 2027</sub>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -154,18 +159,37 @@
 
 ### Cloud & Databases
 
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F8746C3E557C8A8765DEBDAEA835D4DF980AA6A7CB800356307BB31EEE577331"><img src="https://img.shields.io/badge/Oracle_Cloud_Database_Services_2025_Certified_Professional_%C2%B7_2025--2027-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/37A20F1F25AD8FE0?sharingId=5C354DD1D169E5B8"><img src="https://img.shields.io/badge/Microsoft_Certified%3A_Azure_AI_Engineer_Associate_%C2%B7_Expired_Nov_2025-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/3878BF56F89E6FC5?sharingId=5C354DD1D169E5B8"><img src="https://img.shields.io/badge/Microsoft_Certified%3A_Azure_Data_Engineer_Associate_%C2%B7_Expired_May_2025-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F8746C3E557C8A8765DEBDAEA835D4DF980AA6A7CB800356307BB31EEE577331"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/oracle-odbcs25cp-badge.png" width="110" alt="Oracle Cloud Database Services 2025 Certified Professional" /></a><br />
+      <sub><b>Oracle Cloud Database Services 2025 Certified Professional</b><br />Issued Aug 2025, Expires Sep 2027</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/37A20F1F25AD8FE0?sharingId=5C354DD1D169E5B8"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Azure AI Engineer Associate" /></a><br />
+      <sub><b>Azure AI Engineer Associate</b><br />Expired Nov 2025</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/3878BF56F89E6FC5?sharingId=5C354DD1D169E5B8"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Azure Data Engineer Associate" /></a><br />
+      <sub><b>Azure Data Engineer Associate</b><br />Expired May 2025</sub>
+    </td>
+  </tr>
+</table>
 
 ### Other
 
-<p align="center">
-  <a href="https://verify.skilljar.com/c/xany25ryqbkq"><img src="https://img.shields.io/badge/Airtable_Admin_Certification_%C2%B7_2025--2027-FC636B?style=for-the-badge&logo=airtable&logoColor=white" /></a>
-  <a href="https://verify.skilljar.com/c/7o2673krk52f"><img src="https://img.shields.io/badge/Airtable_Builder_Certification_%C2%B7_2025--2027-FC636B?style=for-the-badge&logo=airtable&logoColor=white" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://verify.skilljar.com/c/xany25ryqbkq"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-admin-badge.png" width="110" alt="Airtable Admin Certification" /></a><br />
+      <sub><b>Airtable Admin Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://verify.skilljar.com/c/7o2673krk52f"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-builder-badge.png" width="110" alt="Airtable Builder Certification" /></a><br />
+      <sub><b>Airtable Builder Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
+    </td>
+  </tr>
+</table>
 
 ### 📚 Courses & Specializations
 
@@ -178,8 +202,16 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DT2ZNFN49VWX"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-ibm-data-science-spec.jpeg" width="200" alt="IBM Data Science Specialization" /></a><br />
+      <sub><b>IBM Data Science Specialization</b><br />Issued Aug 2023</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DT2ZNFN49VWX"><img src="https://img.shields.io/badge/IBM_Data_Science_Specialization_%C2%B7_Aug_2023-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/f9129d999f02d6c97af3b0f3d85109472ad1e4fdebf7f5f5183f4b6504951fe7/"><img src="https://img.shields.io/badge/Professional_Program_Management_%C2%B7_Aug_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/ee8e0d12621a4974ac2dfc9f679add7def86a5623c0d2cd54aaa7d06bb06f8cc/"><img src="https://img.shields.io/badge/Inclusive_Leadership_Skills_%C2%B7_May_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -193,9 +225,25 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BG6P6R8CQ8DL"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-google-data-analytics-spec.jpeg" width="200" alt="Google Data Analytics Specialization" /></a><br />
+      <sub><b>Google Data Analytics Specialization</b><br />Issued Aug 2022</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/YCMY6JYBESHM"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-negotiation.jpeg" width="200" alt="Negotiation, Mediation, and Conflict Resolution" /></a><br />
+      <sub><b>Negotiation, Mediation, and Conflict Resolution</b><br />Issued Apr 2022</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BG6P6R8CQ8DL"><img src="https://img.shields.io/badge/Google_Data_Analytics_Specialization_%C2%B7_Aug_2022-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/YCMY6JYBESHM"><img src="https://img.shields.io/badge/Negotiation%2C_Mediation%2C_and_Conflict_Resolution_%C2%B7_Apr_2022-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/59c5a857ce845ce9754469e97c1cabd2243ddd6989f1a97bcfb9c65af1bd5555/"><img src="https://img.shields.io/badge/Git_and_GitHub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
