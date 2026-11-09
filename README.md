@@ -267,11 +267,11 @@
 
 | Area | What it does |
 |---|---|
-| **[Agentic RAG & Context Engineering](https://github.com/itsnikhile/rag-mcp-pipeline)** | Agentic retrieval with context engineering — document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
-| **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
-| **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
-| **[AI Evals & Observability](https://github.com/itsnikhile/rag-mcp-pipeline)** | Retrieval evaluation as a first-class endpoint — precision@k, recall@k, MRR — so AI systems stay grounded and measurable in production |
-| **AI + Analytics** | Databricks AI/BI + Power BI for intelligent, self-serve business reporting |
+| **[Agentic RAG & Context Engineering](https://github.com/itsnikhile/rag-mcp-pipeline)** | Architecting production RAG systems with context engineering — grounded, cited answers over enterprise data, built for production, not demos |
+| **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | Building multi-agent systems with LangGraph — supervisor patterns and tool-calling agents that carry real work end-to-end |
+| **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Shipping custom MCP servers that put enterprise data behind secure, reusable tools for Claude — one toolset, many agents |
+| **[AI Evals & Observability](https://github.com/itsnikhile/rag-mcp-pipeline)** | Making AI measurable in production — retrieval evaluation as a first-class endpoint (precision@k, recall@k, MRR) with observability baked in |
+| **AI + Analytics** | Bringing AI into analytics — Databricks AI/BI + Power BI for self-serve reporting teams can actually trust |
 
 ---
 
