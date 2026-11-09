@@ -88,12 +88,31 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/6a59e9bd-e6a7-4a36-bfe5-ac142e33b85d/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-ai-orchestration.png" width="110" alt="Astronomer AI Orchestration Fundamentals" /></a><br />
+      <sub><b>Astronomer AI Orchestration Fundamentals</b><br />Issued Aug 2026</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.credly.com/badges/6a59e9bd-e6a7-4a36-bfe5-ac142e33b85d/linked_in_profile"><img src="https://img.shields.io/badge/Astronomer_Certified_for_AI_Orchestration_Fundamentals_%C2%B7_2026-232A55?style=for-the-badge&logo=astronomer&logoColor=white" /></a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/EatalpackaNikhil-1417/3CF3240C138C0E86?sharingId"><img src="https://img.shields.io/badge/Microsoft_Certified%3A_Power_BI_Data_Analyst_Associate_%C2%B7_2026--2027-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="https://www.credly.com/badges/447ab177-8a10-4fa0-85b0-7eb4ecc35377/public_url"><img src="https://img.shields.io/badge/Professional_Data_Engineer_Certification_%C2%B7_2025--2027-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
-  <a href="https://www.credly.com/badges/fd9eb058-fd3c-42cb-be60-ff9166569a73/linked_in_profile"><img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_--_Associate_%C2%B7_2024--2027-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/447ab177-8a10-4fa0-85b0-7eb4ecc35377/public_url"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-pde.png" width="110" alt="Google Professional Data Engineer" /></a><br />
+      <sub><b>Google Professional Data Engineer</b><br />Issued May 2025, Expires Jun 2027</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/fd9eb058-fd3c-42cb-be60-ff9166569a73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/aws-data-engineer.png" width="110" alt="AWS Certified Data Engineer – Associate" /></a><br />
+      <sub><b>AWS Certified Data Engineer – Associate</b><br />Issued Dec 2024, Expires Dec 2027</sub>
+    </td>
+  </tr>
+</table>
 
 #### Databricks Academy Knowledge Badges
 
@@ -126,12 +145,12 @@
       <a href="https://certificates.confluent.io/3a7ffe6e-efc4-4d4b-9c8f-24179ca9ac6f"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=158458769" width="110" alt="Data Streaming Engineer Foundations" /></a><br />
       <sub><b>Data Streaming Engineer Foundations</b><br />2025</sub>
     </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/8f702a3f-3aec-4adb-a35e-bd0d1858d892/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-airflow-3.png" width="110" alt="Astronomer Apache Airflow 3" /></a><br />
+      <sub><b>Astronomer Apache Airflow 3</b><br />Issued Oct 2025, Expires Oct 2027</sub>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/8f702a3f-3aec-4adb-a35e-bd0d1858d892/linked_in_profile"><img src="https://img.shields.io/badge/Astronomer_Certification_for_Apache_Airflow_3_%C2%B7_2025--2027-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /></a>
-</p>
 
 ### Cloud & Databases
 
@@ -150,12 +169,31 @@
 
 ### 📚 Courses & Specializations
 
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/63ce30b5-a3ad-4ca2-8502-fa2574dade73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/ibm-data-science-pro.png" width="110" alt="IBM Data Science Professional Certificate" /></a><br />
+      <sub><b>IBM Data Science Professional Certificate</b><br />Issued Aug 2023</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.credly.com/badges/63ce30b5-a3ad-4ca2-8502-fa2574dade73/linked_in_profile"><img src="https://img.shields.io/badge/IBM_Data_Science_Professional_Certificate_%C2%B7_Aug_2023-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DT2ZNFN49VWX"><img src="https://img.shields.io/badge/IBM_Data_Science_Specialization_%C2%B7_Aug_2023-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/f9129d999f02d6c97af3b0f3d85109472ad1e4fdebf7f5f5183f4b6504951fe7/"><img src="https://img.shields.io/badge/Professional_Program_Management_%C2%B7_Aug_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/ee8e0d12621a4974ac2dfc9f679add7def86a5623c0d2cd54aaa7d06bb06f8cc/"><img src="https://img.shields.io/badge/Inclusive_Leadership_Skills_%C2%B7_May_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.credly.com/badges/d3e3942a-1320-4f23-8e21-1db2baaa402f/linked_in_profile"><img src="https://img.shields.io/badge/Google_Data_Analytics_Professional_Certificate_%C2%B7_Sep_2022-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/d3e3942a-1320-4f23-8e21-1db2baaa402f/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-data-analytics-pro.png" width="110" alt="Google Data Analytics Professional Certificate" /></a><br />
+      <sub><b>Google Data Analytics Professional Certificate</b><br />Issued Sep 2022</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BG6P6R8CQ8DL"><img src="https://img.shields.io/badge/Google_Data_Analytics_Specialization_%C2%B7_Aug_2022-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/YCMY6JYBESHM"><img src="https://img.shields.io/badge/Negotiation%2C_Mediation%2C_and_Conflict_Resolution_%C2%B7_Apr_2022-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/59c5a857ce845ce9754469e97c1cabd2243ddd6989f1a97bcfb9c65af1bd5555/"><img src="https://img.shields.io/badge/Git_and_GitHub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
