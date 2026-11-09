@@ -1,3 +1,4 @@
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Nikhil%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20%7C%20Cloud%20Engineer&descSize=18&descAlignY=75&descAlign=50" />
@@ -41,6 +42,93 @@
 - 🗄️ **Data Engineering & Pipelines** - Databricks, Spark, Airflow, dbt and Snowflake for enterprise-scale data platforms
 - 🔄 **Real-Time Streaming** - Kafka, Spark Streaming, event-driven architectures
 - 📊 **Enterprise Analytics & Cloud Architecture** - Power BI, CRMA migrations, and cloud-native platforms on AWS, Azure, GCP at scale
+
+---
+
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/itsnikhile/rag-mcp-pipeline">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=rag-mcp-pipeline&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/itsnikhile/llm-data-pipeline">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=llm-data-pipeline&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsnikhile/multi-mcp-data-swarm">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=multi-mcp-data-swarm&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/itsnikhile/claude-mcp-data-engineer">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=claude-mcp-data-engineer&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+
+---
+
+## 🏆 Certifications
+
+### AI & Data
+
+| Certification | Issuer | Issued | Expires |
+|---|---|---|---|
+| Astronomer Certified for AI Orchestration Fundamentals | Astronomer | Aug 2026 | — |
+| Databricks Certified Data Engineer Professional | Databricks | May 2026 | May 2028 |
+| Microsoft Certified: Power BI Data Analyst Associate | Microsoft | Apr 2026 | Apr 2027 |
+| Professional Data Engineer Certification | Google | May 2025 | Jun 2027 |
+| AWS Certified Data Engineer – Associate | Amazon Web Services (AWS) | Dec 2024 | Dec 2027 |
+| Databricks Certified Associate Developer for Apache Spark 3.0 | Databricks | May 2024 | — |
+| SnowPro Core | Snowflake | Apr 2024 | Apr 2028 |
+
+### Streaming & Orchestration
+
+| Certification | Issuer | Issued | Expires |
+|---|---|---|---|
+| Data Streaming Engineer - Apache Flink | Confluent, an IBM Company | Oct 2026 | Oct 2028 |
+| Astronomer Certification for Apache Airflow 3 | Astronomer | Oct 2025 | Oct 2027 |
+| Data Streaming Engineer | Confluent, an IBM Company | Aug 2025 | Aug 2027 |
+
+### Cloud & Databases
+
+| Certification | Issuer | Issued | Expires |
+|---|---|---|---|
+| Oracle Cloud Database Services 2025 Certified Professional | Oracle | Aug 2025 | Sep 2027 |
+| Microsoft Certified: Azure AI Engineer Associate | Microsoft | Oct 2024 | Expired Nov 2025 |
+| Microsoft Certified: Azure Data Engineer Associate | Microsoft | May 2024 | Expired May 2025 |
+
+### Other
+
+| Certification | Issuer | Issued | Expires |
+|---|---|---|---|
+| Airtable Admin Certification | Airtable | Jun 2025 | Jul 2027 |
+| Airtable Builder Certification | Airtable | Jun 2025 | Jul 2027 |
+
+---
+
+## 📈 Key Impact Snapshot
+
+| 📌 Area | 🚀 Result |
+|--------|---------|
+| AI Agents / RAG Systems Built | **5+** agents and RAG systems built |
+| Enterprise Data Pipelines Delivered | **25+** pipelines in production |
+| Data Processed | **10TB+** processed at enterprise scale |
+| Performance Boost | **~40%** faster workflows |
+| Cloud Cost Optimization | **~30%** reduced cloud spend |
+| Reliability Achieved | **99.9%** uptime |
+| Teams / Business Supported | **15+** teams and business units supported |
+
+---
+
+## 🤖 What I'm Building with AI
+
+| Area | What it does |
+|---|---|
+| 📚 **[RAG Pipelines](https://github.com/itsnikhile/rag-mcp-pipeline)** | Document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
+| 🧩 **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
+| 🔌 **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
+| 🧠 **LLM Fine-tuning** | Domain-specific prompt engineering and retrieval augmentation to make LLM output accurate for a business domain |
+| 📊 **AI + Analytics** | Databricks AI + Power BI for intelligent, self-serve business reporting |
 
 ---
 
@@ -107,53 +195,6 @@
 
 ---
 
-## 🤖 What I'm Building with AI
-
-| Area | What it does |
-|---|---|
-| 🧩 **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
-| 📚 **[RAG Pipelines](https://github.com/itsnikhile/rag-mcp-pipeline)** | Document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
-| 🔌 **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
-| 🧠 **LLM Fine-tuning** | Domain-specific prompt engineering and retrieval augmentation to make LLM output accurate for a business domain |
-| 📊 **AI + Analytics** | Databricks AI + Power BI for intelligent, self-serve business reporting |
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/itsnikhile/rag-mcp-pipeline">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=rag-mcp-pipeline&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/itsnikhile/llm-data-pipeline">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=llm-data-pipeline&theme=tokyonight&hide_border=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/itsnikhile/multi-mcp-data-swarm">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=multi-mcp-data-swarm&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/itsnikhile/claude-mcp-data-engineer">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=itsnikhile&repo=claude-mcp-data-engineer&theme=tokyonight&hide_border=false" />
-  </a>
-</p>
-
----
-
-## 📈 Key Impact Snapshot
-
-| 📌 Area | 🚀 Result |
-|--------|---------|
-| Enterprise Data Pipelines Delivered | **25+** pipelines in production |
-| Data Processed | **10TB+** processed at enterprise scale |
-| Performance Boost | **~40%** faster workflows |
-| Reliability Achieved | **99.9%** uptime |
-| Cloud Cost Optimization | **~30%** reduced cloud spend |
-| AI Agents / RAG Systems Built | **5+** agents and RAG systems built |
-| Teams / Business Supported | **15+** teams and business units supported |
-
----
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=itsnikhile&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsnikhile&theme=tokyonight&hide_border=false)<br/>
@@ -178,3 +219,4 @@
 </p>
 
 <p align="center">🤖 Building at the edge of AI + Data + Cloud. Always shipping. Always learning.</p>
+
