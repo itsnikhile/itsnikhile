@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Nikhil%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Agentic%20AI%20%26%20LLM%20Systems&descSize=18&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Nikhil%20E&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20%7C%20Cloud%20Engineer&descSize=18&descAlignY=75&descAlign=50" />
 </p>
 
 <h2 align="center">👋 Hola, I'm <span style="color:#A78BFA">Nikhil</span></h2>
