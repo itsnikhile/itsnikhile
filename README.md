@@ -251,15 +251,15 @@
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/milestone-dark.svg"><img src="assets/icons/milestone-light.svg" width="24" height="24" align="top" alt=""></picture> Key Impact Snapshot
 
-| 📌 Area | 🚀 Result |
+| Area | Result |
 |--------|---------|
-| AI Agents / RAG Systems Built | **5+** agents and RAG systems built |
-| Enterprise Data Pipelines Delivered | **25+** pipelines in production |
-| Data Processed | **10TB+** processed at enterprise scale |
-| Performance Boost | **~40%** faster workflows |
-| Cloud Cost Optimization | **~30%** reduced cloud spend |
-| Reliability Achieved | **99.9%** uptime |
-| Teams / Business Supported | **15+** teams and business units supported |
+| AI Agents & RAG Systems | Architected and shipped **5+** production agents and RAG systems |
+| Enterprise Data Pipelines | Designed and delivered **25+** pipelines in production |
+| Data at Scale | **10TB+** processed across enterprise-scale platforms |
+| Performance | Drove **~40%** faster workflows end to end |
+| Cloud Cost Optimization | Cut cloud spend **~30%** through platform optimization |
+| Platform Reliability | Delivered **99.9%** uptime in production |
+| Business Impact | Enabled **15+** teams and business units with trusted data & AI |
 
 ---
 
@@ -267,11 +267,11 @@
 
 | Area | What it does |
 |---|---|
-| 📚 **[RAG Pipelines](https://github.com/itsnikhile/rag-mcp-pipeline)** | Document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
-| 🧩 **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
-| 🔌 **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
-| 🧠 **LLM Fine-tuning** | Domain-specific prompt engineering and retrieval augmentation to make LLM output accurate for a business domain |
-| 📊 **AI + Analytics** | Databricks AI + Power BI for intelligent, self-serve business reporting |
+| **[Agentic RAG & Context Engineering](https://github.com/itsnikhile/rag-mcp-pipeline)** | Agentic retrieval with context engineering — document ingestion → chunking → embeddings → vector store → grounded, cited LLM answers |
+| **[Multi-Agent Systems](https://github.com/itsnikhile/multi-mcp-data-swarm)** | LangGraph orchestration with tool-calling agents and supervisor patterns — specialized agents working together end-to-end |
+| **[MCP Servers](https://github.com/itsnikhile/claude-mcp-data-engineer)** | Custom Model Context Protocol servers that give Claude secure, reusable tools for enterprise data work |
+| **[AI Evals & Observability](https://github.com/itsnikhile/rag-mcp-pipeline)** | Retrieval evaluation as a first-class endpoint — precision@k, recall@k, MRR — so AI systems stay grounded and measurable in production |
+| **AI + Analytics** | Databricks AI/BI + Power BI for intelligent, self-serve business reporting |
 
 ---
 
