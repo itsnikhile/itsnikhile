@@ -81,6 +81,10 @@
       <a href="https://www.credential.net/1ca0cd1e-4a45-4cbd-b008-2c6c81d1e315"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=104899742" width="110" alt="Databricks Certified Associate Developer for Apache Spark 3.0" /></a><br />
       <sub><b>Databricks Certified Associate Developer for Apache Spark 3.0</b><br />2024</sub>
     </td>
+    <td align="center" width="160">
+      <a href="https://www.credential.net/519bf3ef-b54b-433c-a17a-8585cc4ea3a9"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/snowpro-core.png" width="110" alt="SnowPro Core" /></a><br />
+      <sub><b>SnowPro Core</b><br />Issued Apr 2024, Expires Apr 2028</sub>
+    </td>
   </tr>
 </table>
 
@@ -89,7 +93,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Certified%3A_Power_BI_Data_Analyst_Associate-2026--2027-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Professional_Data_Engineer_Certification-2025--2027-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Certified_Data_Engineer_--_Associate-2024--2027-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SnowPro_Core-2024--2028-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 #### Databricks Academy Knowledge Badges
