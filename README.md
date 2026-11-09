@@ -74,48 +74,35 @@
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <a href="https://credentials.databricks.com/a89a9c2b-e152-4672-9576-d176e17a6712"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=181359669" width="110" alt="Databricks Certified Data Engineer Professional" /></a><br />
-      <sub><b>Databricks Certified Data Engineer Professional</b><br />2026</sub>
-    </td>
+          <a href="https://credentials.databricks.com/a89a9c2b-e152-4672-9576-d176e17a6712"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=181359669" width="110" alt="Databricks Certified Data Engineer Professional" /></a><br />
+          <sub><b>Databricks Certified Data Engineer Professional</b><br />2026</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://credentials.databricks.com/1ca0cd1e-4a45-4cbd-b008-2c6c81d1e315"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=104899742" width="110" alt="Databricks Certified Associate Developer for Apache Spark 3.0" /></a><br />
-      <sub><b>Databricks Certified Associate Developer for Apache Spark 3.0</b><br />2024</sub>
-    </td>
+          <a href="https://credentials.databricks.com/1ca0cd1e-4a45-4cbd-b008-2c6c81d1e315"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=104899742" width="110" alt="Databricks Certified Associate Developer for Apache Spark 3.0" /></a><br />
+          <sub><b>Databricks Certified Associate Developer for Apache Spark 3.0</b><br />2024</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://achieve.snowflake.com/519bf3ef-b54b-433c-a17a-8585cc4ea3a9"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/snowpro-core.png" width="110" alt="SnowPro Core" /></a><br />
-      <sub><b>SnowPro Core</b><br />Issued Apr 2024, Expires Apr 2028</sub>
-    </td>
+          <a href="https://achieve.snowflake.com/519bf3ef-b54b-433c-a17a-8585cc4ea3a9"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/snowpro-core.png" width="110" alt="SnowPro Core" /></a><br />
+          <sub><b>SnowPro Core</b><br />Issued Apr 2024, Expires Apr 2028</sub>
+        </td>
+    <td align="center" width="160">
+          <a href="https://www.credly.com/badges/6a59e9bd-e6a7-4a36-bfe5-ac142e33b85d/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-ai-orchestration.png" width="110" alt="Astronomer AI Orchestration Fundamentals" /></a><br />
+          <sub><b>Astronomer AI Orchestration Fundamentals</b><br />Issued Aug 2026</sub>
+        </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td align="center" width="160">
-      <a href="https://www.credly.com/badges/6a59e9bd-e6a7-4a36-bfe5-ac142e33b85d/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-ai-orchestration.png" width="110" alt="Astronomer AI Orchestration Fundamentals" /></a><br />
-      <sub><b>Astronomer AI Orchestration Fundamentals</b><br />Issued Aug 2026</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
+          <a href="https://learn.microsoft.com/api/credentials/share/en-us/EatalpackaNikhil-1417/3CF3240C138C0E86?sharingId"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Power BI Data Analyst Associate" /></a><br />
+          <sub><b>Power BI Data Analyst Associate</b><br />Issued Apr 2026, Expires Apr 2027</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://learn.microsoft.com/api/credentials/share/en-us/EatalpackaNikhil-1417/3CF3240C138C0E86?sharingId"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Power BI Data Analyst Associate" /></a><br />
-      <sub><b>Power BI Data Analyst Associate</b><br />Issued Apr 2026, Expires Apr 2027</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
+          <a href="https://www.credly.com/badges/447ab177-8a10-4fa0-85b0-7eb4ecc35377/public_url"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-pde.png" width="110" alt="Google Professional Data Engineer" /></a><br />
+          <sub><b>Google Professional Data Engineer</b><br />Issued May 2025, Expires Jun 2027</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://www.credly.com/badges/447ab177-8a10-4fa0-85b0-7eb4ecc35377/public_url"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-pde.png" width="110" alt="Google Professional Data Engineer" /></a><br />
-      <sub><b>Google Professional Data Engineer</b><br />Issued May 2025, Expires Jun 2027</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/fd9eb058-fd3c-42cb-be60-ff9166569a73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/aws-data-engineer.png" width="110" alt="AWS Certified Data Engineer – Associate" /></a><br />
-      <sub><b>AWS Certified Data Engineer – Associate</b><br />Issued Dec 2024, Expires Dec 2027</sub>
-    </td>
+          <a href="https://www.credly.com/badges/fd9eb058-fd3c-42cb-be60-ff9166569a73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/aws-data-engineer.png" width="110" alt="AWS Certified Data Engineer – Associate" /></a><br />
+          <sub><b>AWS Certified Data Engineer – Associate</b><br />Issued Dec 2024, Expires Dec 2027</sub>
+        </td>
   </tr>
 </table>
 
@@ -124,17 +111,17 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <a href="https://www.credential.net/9aef607e-4fe8-47c0-8e6b-91e7b0e32aa6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197493026" width="80" alt="Knowledge Badge - AI/BI for Data Analysts" /></a><br />
-      <sub><b>Knowledge Badge - AI/BI for Data Analysts</b><br />2026</sub>
-    </td>
+          <a href="https://www.credential.net/9aef607e-4fe8-47c0-8e6b-91e7b0e32aa6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197493026" width="80" alt="Knowledge Badge - AI/BI for Data Analysts" /></a><br />
+          <sub><b>Knowledge Badge - AI/BI for Data Analysts</b><br />2026</sub>
+        </td>
     <td align="center" width="130">
-      <a href="https://www.credential.net/25a307f8-7885-4048-a7de-6eaad0f33df6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197492955" width="80" alt="Knowledge Badge - SQL Analytics on Databricks" /></a><br />
-      <sub><b>Knowledge Badge - SQL Analytics on Databricks</b><br />2026</sub>
-    </td>
+          <a href="https://www.credential.net/25a307f8-7885-4048-a7de-6eaad0f33df6"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197492955" width="80" alt="Knowledge Badge - SQL Analytics on Databricks" /></a><br />
+          <sub><b>Knowledge Badge - SQL Analytics on Databricks</b><br />2026</sub>
+        </td>
     <td align="center" width="130">
-      <a href="https://www.credential.net/447cbe5b-9fee-414e-adc9-e97ff0d6521d"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=172572934" width="80" alt="Knowledge Badge - Introduction to Apache Spark" /></a><br />
-      <sub><b>Knowledge Badge - Introduction to Apache Spark</b><br />2026</sub>
-    </td>
+          <a href="https://www.credential.net/447cbe5b-9fee-414e-adc9-e97ff0d6521d"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=172572934" width="80" alt="Knowledge Badge - Introduction to Apache Spark" /></a><br />
+          <sub><b>Knowledge Badge - Introduction to Apache Spark</b><br />2026</sub>
+        </td>
   </tr>
 </table>
 
@@ -143,51 +130,36 @@
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <a href="https://certificates.confluent.io/2919b7a8-94b9-495e-ad8e-5fd30d03b5b3#acc.3UeHS752"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197495710" width="110" alt="Data Streaming Engineer - Apache Flink" /></a><br />
-      <sub><b>Data Streaming Engineer - Apache Flink</b><br />2026</sub>
-    </td>
+          <a href="https://certificates.confluent.io/2919b7a8-94b9-495e-ad8e-5fd30d03b5b3#acc.3UeHS752"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=197495710" width="110" alt="Data Streaming Engineer - Apache Flink" /></a><br />
+          <sub><b>Data Streaming Engineer - Apache Flink</b><br />2026</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://certificates.confluent.io/3a7ffe6e-efc4-4d4b-9c8f-24179ca9ac6f"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=158458769" width="110" alt="Data Streaming Engineer Foundations" /></a><br />
-      <sub><b>Data Streaming Engineer Foundations</b><br />2025</sub>
-    </td>
+          <a href="https://certificates.confluent.io/3a7ffe6e-efc4-4d4b-9c8f-24179ca9ac6f"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=158458769" width="110" alt="Data Streaming Engineer Foundations" /></a><br />
+          <sub><b>Data Streaming Engineer Foundations</b><br />2025</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://www.credly.com/badges/8f702a3f-3aec-4adb-a35e-bd0d1858d892/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-airflow-3.png" width="110" alt="Astronomer Apache Airflow 3" /></a><br />
-      <sub><b>Astronomer Apache Airflow 3</b><br />Issued Oct 2025, Expires Oct 2027</sub>
-    </td>
+          <a href="https://www.credly.com/badges/8f702a3f-3aec-4adb-a35e-bd0d1858d892/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/astronomer-airflow-3.png" width="110" alt="Astronomer Apache Airflow 3" /></a><br />
+          <sub><b>Astronomer Apache Airflow 3</b><br />Issued Oct 2025, Expires Oct 2027</sub>
+        </td>
   </tr>
 </table>
 
-### Cloud & Databases
+### Cloud, Databases & Platforms
 
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F8746C3E557C8A8765DEBDAEA835D4DF980AA6A7CB800356307BB31EEE577331"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/oracle-odbcs25cp-badge.png" width="110" alt="Oracle Cloud Database Services 2025 Certified Professional" /></a><br />
-      <sub><b>Oracle Cloud Database Services 2025 Certified Professional</b><br />Issued Aug 2025, Expires Sep 2027</sub>
-    </td>
+          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F8746C3E557C8A8765DEBDAEA835D4DF980AA6A7CB800356307BB31EEE577331"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/oracle-odbcs25cp-badge.png" width="110" alt="Oracle Cloud Database Services 2025 Certified Professional" /></a><br />
+          <sub><b>Oracle Cloud Database Services 2025 Certified Professional</b><br />Issued Aug 2025, Expires Sep 2027</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/37A20F1F25AD8FE0?sharingId=5C354DD1D169E5B8"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Azure AI Engineer Associate" /></a><br />
-      <sub><b>Azure AI Engineer Associate</b><br />Expired Nov 2025</sub>
-    </td>
+          <a href="https://verify.skilljar.com/c/xany25ryqbkq"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-admin-badge.png" width="110" alt="Airtable Admin Certification" /></a><br />
+          <sub><b>Airtable Admin Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
+        </td>
     <td align="center" width="160">
-      <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/3878BF56F89E6FC5?sharingId=5C354DD1D169E5B8"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/microsoft-associate-badge.svg" width="110" alt="Azure Data Engineer Associate" /></a><br />
-      <sub><b>Azure Data Engineer Associate</b><br />Expired May 2025</sub>
-    </td>
-  </tr>
-</table>
-
-### Other
-
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <a href="https://verify.skilljar.com/c/xany25ryqbkq"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-admin-badge.png" width="110" alt="Airtable Admin Certification" /></a><br />
-      <sub><b>Airtable Admin Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://verify.skilljar.com/c/7o2673krk52f"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-builder-badge.png" width="110" alt="Airtable Builder Certification" /></a><br />
-      <sub><b>Airtable Builder Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
-    </td>
+          <a href="https://verify.skilljar.com/c/7o2673krk52f"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/airtable-builder-badge.png" width="110" alt="Airtable Builder Certification" /></a><br />
+          <sub><b>Airtable Builder Certification</b><br />Issued Jun 2025, Expires Jul 2027</sub>
+        </td>
   </tr>
 </table>
 
@@ -196,56 +168,40 @@
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <a href="https://www.credly.com/badges/63ce30b5-a3ad-4ca2-8502-fa2574dade73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/ibm-data-science-pro.png" width="110" alt="IBM Data Science Professional Certificate" /></a><br />
-      <sub><b>IBM Data Science Professional Certificate</b><br />Issued Aug 2023</sub>
-    </td>
+          <a href="https://www.credly.com/badges/63ce30b5-a3ad-4ca2-8502-fa2574dade73/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/ibm-data-science-pro.png" width="110" alt="IBM Data Science Professional Certificate" /></a><br />
+          <sub><b>IBM Data Science Professional Certificate</b><br />Issued Aug 2023</sub>
+        </td>
+    <td align="center" width="160">
+          <a href="https://www.credly.com/badges/d3e3942a-1320-4f23-8e21-1db2baaa402f/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-data-analytics-pro.png" width="110" alt="Google Data Analytics Professional Certificate" /></a><br />
+          <sub><b>Google Data Analytics Professional Certificate</b><br />Issued Sep 2022</sub>
+        </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DT2ZNFN49VWX"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-ibm-data-science-spec.jpeg" width="200" alt="IBM Data Science Specialization" /></a><br />
-      <sub><b>IBM Data Science Specialization</b><br />Issued Aug 2023</sub>
-    </td>
+          <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DT2ZNFN49VWX"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-ibm-data-science-spec.jpeg" width="200" alt="IBM Data Science Specialization" /></a><br />
+          <sub><b>IBM Data Science Specialization</b><br />Issued Aug 2023</sub>
+        </td>
+    <td align="center" width="220">
+          <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BG6P6R8CQ8DL"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-google-data-analytics-spec.jpeg" width="200" alt="Google Data Analytics Specialization" /></a><br />
+          <sub><b>Google Data Analytics Specialization</b><br />Issued Aug 2022</sub>
+        </td>
+    <td align="center" width="220">
+          <a href="https://www.coursera.org/account/accomplishments/specialization/YCMY6JYBESHM"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-negotiation.jpeg" width="200" alt="Negotiation, Mediation, and Conflict Resolution" /></a><br />
+          <sub><b>Negotiation, Mediation, and Conflict Resolution</b><br />Issued Apr 2022</sub>
+        </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://www.linkedin.com/learning/certificates/f9129d999f02d6c97af3b0f3d85109472ad1e4fdebf7f5f5183f4b6504951fe7/"><img src="https://img.shields.io/badge/Professional_Program_Management_%C2%B7_Aug_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/learning/certificates/ee8e0d12621a4974ac2dfc9f679add7def86a5623c0d2cd54aaa7d06bb06f8cc/"><img src="https://img.shields.io/badge/Inclusive_Leadership_Skills_%C2%B7_May_2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <a href="https://www.credly.com/badges/d3e3942a-1320-4f23-8e21-1db2baaa402f/linked_in_profile"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/google-data-analytics-pro.png" width="110" alt="Google Data Analytics Professional Certificate" /></a><br />
-      <sub><b>Google Data Analytics Professional Certificate</b><br />Issued Sep 2022</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BG6P6R8CQ8DL"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-google-data-analytics-spec.jpeg" width="200" alt="Google Data Analytics Specialization" /></a><br />
-      <sub><b>Google Data Analytics Specialization</b><br />Issued Aug 2022</sub>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/YCMY6JYBESHM"><img src="https://raw.githubusercontent.com/itsnikhile/itsnikhile/main/assets/badges/coursera-negotiation.jpeg" width="200" alt="Negotiation, Mediation, and Conflict Resolution" /></a><br />
-      <sub><b>Negotiation, Mediation, and Conflict Resolution</b><br />Issued Apr 2022</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
   <a href="https://www.linkedin.com/learning/certificates/59c5a857ce845ce9754469e97c1cabd2243ddd6989f1a97bcfb9c65af1bd5555/"><img src="https://img.shields.io/badge/Git_and_GitHub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p align="center"><sub>Previously held: <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/37A20F1F25AD8FE0?sharingId=5C354DD1D169E5B8">Azure AI Engineer Associate</a> (expired Nov 2025) · <a href="https://learn.microsoft.com/api/credentials/share/en-us/NikhilEatalpacka-8669/3878BF56F89E6FC5?sharingId=5C354DD1D169E5B8">Azure Data Engineer Associate</a> (expired May 2025)</sub></p>
 
 ---
 
